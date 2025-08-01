@@ -1,7 +1,7 @@
 <!-- Imagen de cabecera con nombre -->
 <p align="center">
   <div style="position: relative; display: inline-block; text-align: left;">
-    <img src="https://i.imgur.com/qbGslfC.gif" alt="Tech Banner" width="600"/>
+    <img src="ales-nesetril-Im7lZjxeLhg-unsplash.png" alt="Tech Banner" width="600"/>
     <div style="position: absolute; top: 10px; left: 20px; color: white; font-size: 24px; font-weight: bold;">
       Nicholas Gómez
     </div>
