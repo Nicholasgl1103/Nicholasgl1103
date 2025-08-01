@@ -1,37 +1,51 @@
-# ¡Hola! Soy Nicholas 👋
+<img src="https://i.imgur.com/dXzMNlM.gif" alt="Tech Banner" width="100%" />
 
-Soy *QA Engineer* en formación con experiencia previa en control de calidad en la industria gráfica.  
-Actualmente me enfoco en el aseguramiento de calidad de software, trabajando con:
+# 👋 ¡Hola! Soy Nicholas
 
-- *Pruebas manuales* y *criterios de aceptación*  
-- *APIs* con *Postman*  
-- Gestión de incidencias en *Jira*  
-- *SQL, **Git* y *Visual Studio Code*  
-- Metodologías *ágiles (Scrum)*  
+Soy **QA Engineer en formación** con experiencia previa en control de calidad en entornos industriales.  
+Actualmente me enfoco en garantizar la calidad del software aplicando pruebas manuales, análisis funcional y validación de APIs.
 
 ---
 
-### 🔧 Tecnologías y herramientas
+### 🛠️ Tecnologías y herramientas
 
-- *Lenguajes:* Python (básico), SQL  
-- *Herramientas QA:* Postman, Jira, Git  
-- *Otras:* Control de versiones, bases de datos, automatización inicial  
-
----
-
-### 📈 Sobre mí
-
-- Me motiva la tecnología por su capacidad de *simplificar procesos* y generar avances.  
-- Tengo estudios en curso en *Ingeniería Mecatrónica*, lo que fortalece mis habilidades en programación y manejo de herramientas técnicas.  
-- Disfruto aprender, colaborar en equipo y mejorar continuamente los productos en los que trabajo.  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📫 Cómo contactarme
+### 📂 Proyectos destacados
 
-- [*LinkedIn*](https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374)  
-- ✉ *Correo:* nicolasenriqueglmail.com  
+- 🔍 [Validación de API con Postman](https://github.com/tuusuario/api-postman)
+- 🛠️ [Sistema de control QA Manual](https://github.com/tuusuario/qa-control-manual)
+- 📊 [Consultas SQL aplicadas a pruebas](https://github.com/tuusuario/sql-testing)
 
 ---
 
-> “Un buen QA no solo encuentra errores, sino que ayuda a construir un mejor producto.”
+### 📊 Estadísticas de GitHub
+
+![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+---
+
+### 🎯 Actualmente estoy...
+
+- Desarrollando un portafolio de pruebas funcionales  
+- Estudiando Python para automatización QA  
+- Profundizando en criterios de aceptación y documentación de bugs
+
+---
+
+### 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374)  
+- ✉️ **Correo:** nicolasenriqueglmail.com  
+
+---
+
+> _"Un buen QA no solo encuentra errores, sino que ayuda a construir un mejor producto."_  
