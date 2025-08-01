@@ -1,6 +1,6 @@
 <!-- Imagen de cabecera -->
 <p align="center">
-  <img src="[https://i.imgur.com/qbGslfC.gif](https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Tech Banner" width="600"/>
+  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tech Banner" width="600"/>
 </p>
 
 <p align="center">
