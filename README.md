@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Nicholas Gómez</h3>
-<p align="center">QA Engineer en formación | Ingeniería Mecatrónica | Control de calidad</p>
+<p align="center">QA Engineer  | Ingeniería Mecatrónica | Control de calidad</p>
 
 ---
 
