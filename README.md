@@ -44,7 +44,7 @@ Me considero una persona autodidacta, resolutiva, organizada y comprometida con 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicholasgl1103&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 🛠️ *Actualmente estoy comenzando a construir mi portafolio en GitHub. ¡Se vienen proyectos interesantes!*
