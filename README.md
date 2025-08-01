@@ -1,13 +1,14 @@
-<!-- Imagen de cabecera -->
+<!-- Imagen de cabecera con nombre -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1120&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tech Banner" width="600"/>
+  <div style="position: relative; display: inline-block; text-align: left;">
+    <img src="https://i.imgur.com/qbGslfC.gif" alt="Tech Banner" width="600"/>
+    <div style="position: absolute; top: 10px; left: 20px; color: white; font-size: 24px; font-weight: bold;">
+      Nicholas Gómez
+    </div>
+  </div>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374" target="_blank">
-    👉 Visita mi perfil en LinkedIn
-  </a>
-</p>
+---
 
 # 👋 ¡Hola! Soy Nicholas Gómez
 
@@ -46,7 +47,7 @@ Me considero una persona autodidacta, resolutiva, organizada y comprometida con 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicholasgl1103&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 🛠️ *Actualmente estoy comenzando a construir mi portafolio en GitHub. ¡Se vienen proyectos interesantes!*
@@ -70,8 +71,9 @@ Me considero una persona autodidacta, resolutiva, organizada y comprometida con 
 
 ### 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374)
-- ✉️ Correo: nicolasenriquegl@gmail.com *(opcional)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374)
+
+[![Email](https://img.shields.io/badge/Email-nicolasenriquegl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasenriquegl@gmail.com)
 
 ---
 
