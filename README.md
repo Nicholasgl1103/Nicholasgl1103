@@ -68,7 +68,7 @@ Me considero una persona autodidacta, resolutiva, organizada y comprometida con 
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/nicolas-gomezlopez-6b2252374](https://www.linkedin.com/in/nicholas-g%C3%B3mez-l%C3%B3pez-6b2252374/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-g%C3%B3mez-l%C3%B3pez-6b2252374/)
 
 [![Email](https://img.shields.io/badge/Email-nicolasenriquegl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasenriquegl@gmail.com)
 
